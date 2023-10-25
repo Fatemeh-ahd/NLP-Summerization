@@ -10,7 +10,7 @@ Our task was to adapt THExt to another domain and enhance it by providing a new 
 Furthermore, we show that providing a broader context can further enhance the model's performance.
 
 
-### 2. Abstractive Context Builder
+### Abstractive Context Builder
 
 The T5 model was utilized to generate a new context by performing abstractive summarization of articles from two datasets. This new context was then used in conjunction with the THExt model to extract highlights.
 
